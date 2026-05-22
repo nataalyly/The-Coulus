@@ -47,7 +47,7 @@
 
 ## 📦 Notes
 
-* Game dimainkan langsung di browser (PC & Mobile)
+* Game dimainkan langsung di browser (disarankan desktop)
 * Disarankan pakai Chrome untuk performa terbaik
 
 ---

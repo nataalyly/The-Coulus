@@ -15,8 +15,8 @@
 
 ## 🕹️ Controls
 
-* **Move**: Arrow Keys / WASD / Joystick (mobile)
-* **Shoot**: Space / Tap button
+* **Move**: WASD
+* **Shoot**: Space / Mouse Left-Click
 
 ---
 

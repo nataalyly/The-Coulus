@@ -33,7 +33,7 @@
 
 ## 🌐 Play Now
 
-👉 [Play the game]((https://nataalyly.itch.io/the-coulus))
+👉 [Play the game]([https://nataalyly.itch.io/the-coulus])
 
 ---
 
